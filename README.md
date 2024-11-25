@@ -14,12 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=River-ans&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=River-ans&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=River-ans&theme=react-dark&bg_color=15181D&hide_border=true&line=CFCFCF&color=FFFFFF" width=94% />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=River-ans&show_icons=true&theme=dark)
+---
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-074DD8?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -29,5 +39,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-B329D9?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 📬 Contact Me
-- [RIVER](mriveroom@gmail.com)
+[![Email](https://img.shields.io/badge/Email-B329D9?style=social&logo=gmail&logoColor=black)](mailto:mriveroom@gmail.com)
