@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=River-ans&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
