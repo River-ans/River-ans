@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=River-ans&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true" width=59.3% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=River-ans&theme=react-dark&bg_color=15181D&hide_border=true&line=CFCFCF&color=FFFFFF" width=100% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=River-ans&theme=react-dark&bg_color=15181D&hide_border=true&line=CFCFCF&color=FFFFFF&grid=false&radius=7" width=99.8%  />
 </a>
 
 ---
