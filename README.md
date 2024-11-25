@@ -1,4 +1,7 @@
-## Hi there 👋
+![Capsule Render](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=RIVER%20&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&strokeWidth=0&descAlign=50)
+
+
+---
 
 <!--
 **River-ans/River-ans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +41,11 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-B329D9?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📖 Blog
+[<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="100%"/>](https://velog.io/@river-m/posts)
 
 ---
 
