@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📖 Blog
-[<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="100%"/>](https://velog.io/@river-m/posts)
+[<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="94%"/>](https://velog.io/@river-m/posts)
 
 ---
 
