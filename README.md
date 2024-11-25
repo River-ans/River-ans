@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=River-ans&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=40.2% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=River-ans&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=River-ans&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true" width=59.3% />
+    <img src="https://github-readme-stats.vercel.app/api?username=River-ans&show_icons=true&theme=material-palenight&hide_border=true&bg_color=15181D&icon_color=CFCFCF&text_color=AAAAAA&title_color=FFFFFF&count_private=true" width=59% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=River-ans&theme=react-dark&bg_color=15181D&hide_border=true&line=CFCFCF&color=FFFFFF&grid=false&radius=7" width=99.8%  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=River-ans&theme=react-dark&bg_color=15181D&hide_border=true&line=CFCFCF&color=FFFFFF&grid=false&radius=7" width=99.5%  />
 </a>
 
 ---
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📖 Blog
-[<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="100%"/>](https://velog.io/@river-m/posts)
+[<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="99.5%"/>](https://velog.io/@river-m/posts)
 
 ---
 
