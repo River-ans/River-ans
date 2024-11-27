@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 📖 Blog
 [<img src="https://velog-github-badge.vercel.app/badge/river-m?theme=dark&posts=3" alt="Velog GitHub stats" width="89.5%"/>](https://velog.io/@river-m/posts)
 
----
+
 
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-B329D9?style=social&logo=gmail&logoColor=black)](mailto:mriveroom@gmail.com)
