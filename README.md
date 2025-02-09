@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-B329D9?style=for-the-badge&logo=figma&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,sass,figma)](https://skillicons.dev)
 
 ---
 
